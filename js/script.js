@@ -24,6 +24,19 @@ moveBtn.addEventListener('mouseover', function() {
 
 // --- Função para o Botão que Adiciona Texto ---
 
+/* const avaliacaoNota = function (primeiroNumero, segundoNumero){
+    if (primeiroNumero == segundoNumero){
+        console.log("Números iguais")
+    } else if (primeiroNumero > segundoNumero){
+        console.log("O primeiro número é superior ao segundo")
+    } else if (segundoNumero > primeiroNumero){
+        console.log("O segundo número é superior ao primeiro")
+    } else {
+        console.log("Inválido")
+    }
+} */ 
+
+
 // Seleciona o botão e o contêiner de texto pelos seus IDs
 const addTextBtn = document.getElementById('addTextBtn');
 const textContainer = document.getElementById('textContainer');
