@@ -1,0 +1,13 @@
+/* PS C:\Users\Winny\Documents\GitHub\avaliacao-git> git log
+commit 70d975628890435590347c4b3df13e0e1cddfef5 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 3a1a7e1 a4e6062
+Author: winny-belo <winnybelopro@gmail.com>
+Date:   Wed Aug 20 16:05:31 2025 -0300
+
+    Merge branch 'main' of https://github.com/winny-belo/avaliacao-git
+
+commit 3a1a7e1543c696fad5c181caa51dfb18f7444f97
+Author: winny-belo <winnybelopro@gmail.com>
+Date:   Wed Aug 20 16:05:19 2025 -0300
+
+*/
